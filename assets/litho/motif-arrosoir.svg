@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Arrosoir">
+  <title>Arrosoir</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 86 L142 86 L132 156 L68 156 Z" fill="#8E9AA6"/>
+    <path d="M142 100 L178 66 L186 74 L152 112 Z" fill="#8E9AA6"/>
+    <path d="M172 60 L192 80" stroke-width="5"/>
+    <path d="M58 96 C 34 96 30 68 52 62" stroke-width="5"/>
+    <rect x="52" y="74" width="96" height="14" fill="#8E9AA6"/>
+  </g>
+</svg>

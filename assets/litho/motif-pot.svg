@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Pot">
+  <title>Pot</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 92 L144 92 L132 162 L68 162 Z" fill="#A8713A"/>
+    <rect x="48" y="74" width="104" height="20" fill="#8A5A22"/>
+    <path d="M100 74 C 100 52 86 44 74 48 C 88 54 92 62 92 74" fill="#5E7350"/>
+    <path d="M108 74 C 108 48 124 38 138 44 C 122 52 116 60 116 74" fill="#5E7350"/>
+  </g>
+</svg>

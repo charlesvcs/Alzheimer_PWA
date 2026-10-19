@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Souci des jardins">
+  <title>Souci des jardins</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 196 C 97 164 103 142 100 116" stroke-width="4.0"/>
+    <path d="M99.0 170.0 Q124.3 172.9 139.0 152.0 Q113.7 149.1 99.0 170.0 Z" fill="#5E7350"/>
+    <path d="M99.0 170.0 L139.0 152.0" stroke-width="2"/>
+    <path d="M109.0 165.5 L116.1 166.7" stroke-width="1.3"/>
+    <path d="M109.0 165.5 L112.8 159.4" stroke-width="1.3"/>
+    <path d="M119.0 161.0 L126.9 164.0" stroke-width="1.3"/>
+    <path d="M119.0 161.0 L122.0 153.1" stroke-width="1.3"/>
+    <path d="M129.0 156.5 L136.1 157.7" stroke-width="1.3"/>
+    <path d="M129.0 156.5 L132.8 150.4" stroke-width="1.3"/>
+    <path d="M101.0 146.0 Q86.7 126.9 63.0 130.0 Q77.3 149.1 101.0 146.0 Z" fill="#5E7350"/>
+    <path d="M101.0 146.0 L63.0 130.0" stroke-width="2"/>
+    <path d="M91.5 142.0 L87.4 136.2" stroke-width="1.3"/>
+    <path d="M91.5 142.0 L84.5 143.1" stroke-width="1.3"/>
+    <path d="M82.0 138.0 L78.6 130.6" stroke-width="1.3"/>
+    <path d="M82.0 138.0 L74.3 140.8" stroke-width="1.3"/>
+    <path d="M72.5 134.0 L68.4 128.2" stroke-width="1.3"/>
+    <path d="M72.5 134.0 L65.5 135.1" stroke-width="1.3"/>
+    <circle cx="145.5" cy="92.4" r="15.0" fill="#D9772E"/>
+    <circle cx="134.8" cy="116.0" r="15.0" fill="#D9772E"/>
+    <circle cx="113.1" cy="130.1" r="15.0" fill="#D9772E"/>
+    <circle cx="87.2" cy="130.2" r="15.0" fill="#D9772E"/>
+    <circle cx="65.3" cy="116.2" r="15.0" fill="#D9772E"/>
+    <circle cx="54.5" cy="92.7" r="15.0" fill="#D9772E"/>
+    <circle cx="58.1" cy="67.0" r="15.0" fill="#D9772E"/>
+    <circle cx="75.0" cy="47.4" r="15.0" fill="#D9772E"/>
+    <circle cx="99.9" cy="40.0" r="15.0" fill="#D9772E"/>
+    <circle cx="124.8" cy="47.2" r="15.0" fill="#D9772E"/>
+    <circle cx="141.8" cy="66.8" r="15.0" fill="#D9772E"/>
+    <circle cx="127.4" cy="98.2" r="13.0" fill="#E8A14C"/>
+    <circle cx="113.1" cy="113.0" r="13.0" fill="#E8A14C"/>
+    <circle cx="92.7" cy="115.1" r="13.0" fill="#E8A14C"/>
+    <circle cx="75.7" cy="103.6" r="13.0" fill="#E8A14C"/>
+    <circle cx="70.1" cy="83.9" r="13.0" fill="#E8A14C"/>
+    <circle cx="78.4" cy="65.1" r="13.0" fill="#E8A14C"/>
+    <circle cx="96.9" cy="56.2" r="13.0" fill="#E8A14C"/>
+    <circle cx="116.8" cy="61.1" r="13.0" fill="#E8A14C"/>
+    <circle cx="128.8" cy="77.8" r="13.0" fill="#E8A14C"/>
+    <circle cx="100" cy="86" r="16" fill="#8A5A22"/>
+    <circle cx="108.8" cy="86.0" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="105.5" cy="92.9" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="98.0" cy="94.6" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="92.1" cy="89.8" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="92.1" cy="82.2" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="98.0" cy="77.4" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="105.5" cy="79.1" r="2.2" fill="#F0DFA8" stroke="none"/>
+    <circle cx="100" cy="86" r="2.9" fill="#F0DFA8" stroke="none"/>
+  </g>
+</svg>

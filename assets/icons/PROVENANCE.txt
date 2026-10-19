@@ -1,0 +1,6 @@
+icon.svg — dessiné pour ce projet (script gen_litho.py, géométrie calculée).
+Sujet : un sachet de semences — cadre d'encre double filet sur aplat chamois, reine-marguerite lithographiée au centre.
+apple-touch-icon.png (180), icon-192.png, icon-512.png, icon-512-maskable.png :
+  rasterisés depuis icon.svg avec ImageMagick, fond #F0DFA8 aplati (iOS n'accepte pas la transparence).
+  La variante maskable réserve la zone de sécurité de 20 % exigée par Android/Chromium.
+Aucun asset tiers, aucune image générée par modèle.

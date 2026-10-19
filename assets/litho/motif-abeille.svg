@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Abeille">
+  <title>Abeille</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 112 C 74 82 126 82 126 112 C 126 146 74 146 74 112 Z" fill="#F0DFA8"/>
+    <path d="M79 100 L121 100 M76 118 L124 118 M82 134 L118 134" stroke-width="7"/>
+    <circle cx="100" cy="76" r="18" fill="#2A2320"/>
+    <path d="M92 60 L84 42 M108 60 L116 42" stroke-width="2.6"/>
+    <circle cx="84" cy="40" r="4" fill="#2A2320" stroke="none"/>
+    <circle cx="116" cy="40" r="4" fill="#2A2320" stroke="none"/>
+    <path d="M78 98 C 44 70 34 104 72 112 Z" fill="#C8CFE3"/>
+    <path d="M122 98 C 156 70 166 104 128 112 Z" fill="#C8CFE3"/>
+  </g>
+</svg>

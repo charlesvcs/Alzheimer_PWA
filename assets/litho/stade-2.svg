@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150" role="img" aria-label="Une tige feuillue">
+  <title>Une tige feuillue</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 134 C 52 112 48 94 50 70" stroke-width="3.4"/>
+    <path d="M50 104 C 24 91 18 112 50 108 Z" fill="#5E7350"/>
+    <path d="M50 104 C 76 91 82 112 50 108 Z" fill="#5E7350"/>
+    <path d="M50 84 C 27 72 21 92 50 88 Z" fill="#5E7350"/>
+    <path d="M50 84 C 73 72 79 92 50 88 Z" fill="#5E7350"/>
+    <path d="M4 110 C 22 100 40 106 50 104 C 60 102 78 100 96 110 L96 148 L4 148 Z" fill="#8A5A22"/>
+    <path d="M4 110 C 22 100 40 106 50 104 C 60 102 78 100 96 110" stroke-width="3.4"/>
+    <path d="M18 126 L30 126 M44 134 L58 134 M70 124 L82 124" stroke-width="1.6" stroke="#6B451A"/>
+  </g>
+</svg>

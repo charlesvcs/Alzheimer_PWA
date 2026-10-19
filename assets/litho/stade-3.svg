@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150" role="img" aria-label="Un bouton">
+  <title>Un bouton</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 134 C 52 108 48 86 50 60" stroke-width="3.4"/>
+    <path d="M50 106 C 24 93 18 114 50 110 Z" fill="#5E7350"/>
+    <path d="M50 106 C 76 93 82 114 50 110 Z" fill="#5E7350"/>
+    <path d="M50 84 C 27 72 21 92 50 88 Z" fill="#5E7350"/>
+    <path d="M50 84 C 73 72 79 92 50 88 Z" fill="#5E7350"/>
+    <path d="M50 34 C 64 40 64 62 50 66 C 36 62 36 40 50 34 Z" fill="#9B3357"/>
+    <path d="M44 64 C 48 56 52 56 56 64" stroke-width="2"/>
+    <path d="M4 110 C 22 100 40 106 50 104 C 60 102 78 100 96 110 L96 148 L4 148 Z" fill="#8A5A22"/>
+    <path d="M4 110 C 22 100 40 106 50 104 C 60 102 78 100 96 110" stroke-width="3.4"/>
+    <path d="M18 126 L30 126 M44 134 L58 134 M70 124 L82 124" stroke-width="1.6" stroke="#6B451A"/>
+  </g>
+</svg>

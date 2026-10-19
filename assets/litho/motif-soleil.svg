@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Soleil">
+  <title>Soleil</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M145.6 106.0 Q159.6 114.4 175.4 109.9 Q161.3 101.5 145.6 106.0 Z" fill="#E8A14C"/>
+    <path d="M136.5 128.0 Q144.5 142.3 160.3 146.2 Q152.4 131.9 136.5 128.0 Z" fill="#E8A14C"/>
+    <path d="M117.6 142.5 Q117.4 158.8 129.1 170.2 Q129.4 153.8 117.6 142.5 Z" fill="#E8A14C"/>
+    <path d="M94.0 145.6 Q85.6 159.6 90.1 175.4 Q98.5 161.3 94.0 145.6 Z" fill="#E8A14C"/>
+    <path d="M72.0 136.5 Q57.7 144.5 53.8 160.3 Q68.1 152.4 72.0 136.5 Z" fill="#E8A14C"/>
+    <path d="M57.5 117.6 Q41.2 117.4 29.8 129.1 Q46.2 129.4 57.5 117.6 Z" fill="#E8A14C"/>
+    <path d="M54.4 94.0 Q40.4 85.6 24.6 90.1 Q38.7 98.5 54.4 94.0 Z" fill="#E8A14C"/>
+    <path d="M63.5 72.0 Q55.5 57.7 39.7 53.8 Q47.6 68.1 63.5 72.0 Z" fill="#E8A14C"/>
+    <path d="M82.4 57.5 Q82.6 41.2 70.9 29.8 Q70.6 46.2 82.4 57.5 Z" fill="#E8A14C"/>
+    <path d="M106.0 54.4 Q114.4 40.4 109.9 24.6 Q101.5 38.7 106.0 54.4 Z" fill="#E8A14C"/>
+    <path d="M128.0 63.5 Q142.3 55.5 146.2 39.7 Q131.9 47.6 128.0 63.5 Z" fill="#E8A14C"/>
+    <path d="M142.5 82.4 Q158.8 82.6 170.2 70.9 Q153.8 70.6 142.5 82.4 Z" fill="#E8A14C"/>
+    <circle cx="100" cy="100" r="40" fill="#D9772E"/>
+    <circle cx="100" cy="100" r="26" fill="#F0DFA8" stroke="none"/>
+  </g>
+</svg>

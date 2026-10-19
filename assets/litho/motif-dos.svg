@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Image retournée">
+  <title>Image retournée</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12" y="12" width="176" height="176" fill="#E4CF90"/>
+    <rect x="28" y="28" width="144" height="144" fill="none" stroke-width="1.8"/>
+    <circle cx="62" cy="62" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="100" cy="62" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="138" cy="62" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="62" cy="100" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="100" cy="100" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="138" cy="100" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="62" cy="138" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="100" cy="138" r="6.5" fill="#2A2320" stroke="none"/>
+    <circle cx="138" cy="138" r="6.5" fill="#2A2320" stroke="none"/>
+  </g>
+</svg>

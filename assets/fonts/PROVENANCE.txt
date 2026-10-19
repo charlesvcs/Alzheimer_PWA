@@ -1,0 +1,6 @@
+alfa-slab-one-latin.woff2
+Alfa Slab One, sous-ensemble latin (U+0000-00FF, Œ/œ inclus — couvre tout le français).
+Origine : Google Fonts, https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh2dJhe_escmA.woff2
+Téléchargé le 2026-10-19. Licence SIL Open Font License 1.1 — redistribution autorisée.
+Rôle : voix display du monde « Sachet de Graines » (nom de la variété uniquement).
+Jamais utilisée pour du texte à lire : consignes, questions et choix sont en sans humaniste système.

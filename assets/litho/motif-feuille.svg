@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Feuille">
+  <title>Feuille</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58.0 160.0 Q127.2 124.4 142.0 48.0 Q72.8 83.6 58.0 160.0 Z" fill="#5E7350"/>
+    <path d="M58.0 160.0 L142.0 48.0" stroke-width="2"/>
+    <path d="M72.0 141.3 L82.7 141.9" stroke-width="1.3"/>
+    <path d="M72.0 141.3 L68.5 131.2" stroke-width="1.3"/>
+    <path d="M86.0 122.7 L99.4 125.2" stroke-width="1.3"/>
+    <path d="M86.0 122.7 L79.8 110.5" stroke-width="1.3"/>
+    <path d="M100.0 104.0 L116.1 108.6" stroke-width="1.3"/>
+    <path d="M100.0 104.0 L91.1 89.8" stroke-width="1.3"/>
+    <path d="M114.0 85.3 L127.4 87.9" stroke-width="1.3"/>
+    <path d="M114.0 85.3 L107.8 73.2" stroke-width="1.3"/>
+    <path d="M128.0 66.7 L138.7 67.2" stroke-width="1.3"/>
+    <path d="M128.0 66.7 L124.5 56.5" stroke-width="1.3"/>
+  </g>
+</svg>

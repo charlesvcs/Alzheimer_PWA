@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 150" role="img" aria-label="Une jeune pousse">
+  <title>Une jeune pousse</title>
+  <g fill="none" stroke="#2A2320" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 132 L50 96" stroke-width="3.4"/>
+    <path d="M50 100 C 28 89 22 108 50 104 Z" fill="#5E7350"/>
+    <path d="M50 100 C 72 89 78 108 50 104 Z" fill="#5E7350"/>
+    <path d="M4 110 C 22 100 40 106 50 104 C 60 102 78 100 96 110 L96 148 L4 148 Z" fill="#8A5A22"/>
+    <path d="M4 110 C 22 100 40 106 50 104 C 60 102 78 100 96 110" stroke-width="3.4"/>
+    <path d="M18 126 L30 126 M44 134 L58 134 M70 124 L82 124" stroke-width="1.6" stroke="#6B451A"/>
+  </g>
+</svg>
